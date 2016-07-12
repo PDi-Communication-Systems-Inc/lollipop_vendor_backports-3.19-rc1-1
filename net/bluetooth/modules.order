@@ -1,4 +1,0 @@
-kernel//mnt/build/sheroorkar/projects/lollipop_build_core/myandroid/vendor/backports-3.19-rc1-1/net/bluetooth/bluetooth.ko
-kernel//mnt/build/sheroorkar/projects/lollipop_build_core/myandroid/vendor/backports-3.19-rc1-1/net/bluetooth/rfcomm/rfcomm.ko
-kernel//mnt/build/sheroorkar/projects/lollipop_build_core/myandroid/vendor/backports-3.19-rc1-1/net/bluetooth/bnep/bnep.ko
-kernel//mnt/build/sheroorkar/projects/lollipop_build_core/myandroid/vendor/backports-3.19-rc1-1/net/bluetooth/hidp/hidp.ko
